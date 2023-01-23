@@ -2,11 +2,18 @@
 TataCliq is an e-commerce website that sells fashion, accessories, electronics, home and other products. It is a collaborative project of 5 members, completed in 5 days. This is a full stack web application built on MERN Stack. by using React, Redux, MongoDB, ExpressJS, NodeJs, ChakraUi.
 
 ## Deployed live link
-- https://dermstore-clone-chi.vercel.app/
+- **Deployed Site: https://tata-cliq.netlify.app/**
 
+- **Deployed Server:https://tata-cliq-server.onrender.com/products**
 
 # Tech Stacks used
-
+<h2>Tech Stack:</h2><div display="flex">
+  <img  src="https://user-images.githubusercontent.com/96100168/210945586-5e28a86e-2a82-4a28-b239-b1ea8599b1ad.png" alt="react" height="40" width="40" /> 
+ <img   src="https://user-images.githubusercontent.com/96100168/210944103-5fa238d0-6611-41b1-8d48-c763788d849a.png" alt="mongo"  height="40" width="40"/> 
+  <img  src="https://user-images.githubusercontent.com/96100168/210945464-a1d31676-5699-439a-9f71-62404f4820f0.png" alt="nodejs" height="40" width="40" /> 
+   <img  src="https://user-images.githubusercontent.com/96100168/210946940-53a1ec2c-54ed-474f-bba8-bb54e9bb426d.png" alt="css" height="40" width="40" /> 
+  <img  src="https://user-images.githubusercontent.com/96100168/210947674-efad06f9-6da6-49eb-a39e-e3b343f3df73.png" alt="chakraui" height="40" width="40" />
+  <img  src="https://user-images.githubusercontent.com/96100168/210947402-fda57d57-e0bc-4a08-9272-e41838fba708.png" alt="git" height="40" width="40" />
 
 # Feaures:
 
