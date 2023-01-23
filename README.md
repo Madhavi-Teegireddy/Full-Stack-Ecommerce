@@ -25,11 +25,13 @@ We can search for a particular product with search bar. We will get all products
 This is the signup page, which the user will get if he clicks on the continue button on the account page and new users can create an account here.
 This is a multi-user application. We can signup or login using our credentials. We used jwt for authentication. There is also signup with google functionality. We used OAuth and passportjs to implement this.
 </br></br>
-<img width="938" alt="210939253-abfcefb1-cfc3-4452-be9b-7d32e3b200c3" src="https://user-images.githubusercontent.com/107460617/214097715-5941316a-052c-46c9-a441-ab8922588737.png">
+![hhhh](https://user-images.githubusercontent.com/107460617/214100354-c6698e82-e19c-4c78-85f7-cdaf04d97926.PNG)
+
 </br></br>
 
 This is the login page by clicking on the account option on the landing page users will be redirected to the login page if the users are existing customers they can login by the same email and password or by Facebook account or google account. If users are new customers then by clicking on continue they will be redirected to the signup page.</br></br>
-![loginDerm](https://user-images.githubusercontent.com/107460617/213982648-f8597035-6bd7-4be9-85ec-72ef0e79b35d.PNG)</br></br>
+![hhhh](https://user-images.githubusercontent.com/107460617/214100768-9484c478-178d-4a55-9206-e1a7fe08ded5.PNG)
+
 
 # Product Page:
 We have Products page, where we have all products of different categories. We can also filter products based on category, brand and department. We also have different sorting options.
@@ -50,8 +52,8 @@ User can enter payment details in payment page. On clicking pay now, they will b
 </br></br>
 
 
-![Uploading 210942651-d3c0d671-38f3-477b-b59d-bd5c1fd7d53c.png…]()
 
+<img width="941" alt="210942651-d3c0d671-38f3-477b-b59d-bd5c1fd7d53c" src="https://user-images.githubusercontent.com/107460617/214100813-38dde73d-1931-4a3d-afa5-301f00989cdf.png">
 
 
 
