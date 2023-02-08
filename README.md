@@ -27,7 +27,7 @@ We can search for a particular product with search bar. We will get all products
 
 # Signup/Signin Pages:
 This is the signup page, which the user will get if he clicks on the continue button on the account page and new users can create an account here.
-This is a multi-user application. We can signup or login using our credentials. We used jwt for authentication. There is also signup with google functionality. We used OAuth and passportjs to implement this.
+This is a multi-user application. We can signup or login using our credentials. We used jwt for authentication. There is also signup with google functionality. We used OAuth and passportjs to implement this
 </br></br>
 ![hhhh](https://user-images.githubusercontent.com/107460617/214100354-c6698e82-e19c-4c78-85f7-cdaf04d97926.PNG)
 
